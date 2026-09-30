@@ -10,3 +10,9 @@ Este repositorio contiene la estructura base e infraestructura de gestión para 
 * `README.md`: Documentación e instrucciones del proyecto.
 ## Autor
 Nair Ayelen Bogarin - [GitHub](https://github.com/NairBog6)
+
+## Cómo empezar / Instalación
+Para clonar y explorar este proyecto en tu computadora:
+1. **Clonar el repositorio:**
+   ```bash
+   git clone https://github.com/NairBog6/Git-coder-pre-entrega.git
