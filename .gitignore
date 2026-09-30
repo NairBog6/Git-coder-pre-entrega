@@ -1,0 +1,13 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Carpetas de configuración de editores
+.vscode/
+.idea/
+
+# Carpetas de dependencias pesadas ( Node o Python luego)
+node_modules/
+__pycache__/
+*.log 
